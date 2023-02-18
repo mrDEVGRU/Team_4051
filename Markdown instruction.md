@@ -30,7 +30,6 @@
 [пример](http://example.com/ "Пример при наведении")
 ## Работа с таблицами
 
-| table | are | cool |
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
